@@ -1,0 +1,5 @@
+@media screen and (max-width:576px) {
+    .countries{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
